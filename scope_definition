@@ -1,0 +1,5 @@
+JS falls under the category of dynamic or interpreted lanugages, but it is infact compiled. It's not compiled well in advance as are many traditionally compiled languages, nor are the results of compilation portable amoung various distributed systems.
+Tokenizing/Lexing 
+Parsing 
+COde Generation
+Any snippet of js has to be compiled before it's executed.
